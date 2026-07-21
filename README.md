@@ -25,10 +25,11 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 - **Project A:** Road Accident Analysis Dashboard using Power BI.  
 - **Project B:** Customer Behavior Analysis Using Jupyter Notebook and SQL.
 - **Project C:** Zepto Data Analysis Using SQL.
+- **Project D:** Gujarat Colleges Data Analysis.
 
 ## 🌱 Currently Learning 
 
-  Advance SQL, Advance Python, Tableau
+  Advance SQL, Advance Python, Tableau , Looker Studio
 
 
 #### Data Analysis & Visualization
