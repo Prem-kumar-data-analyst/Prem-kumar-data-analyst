@@ -18,7 +18,7 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://prem-kumar-data-analyst.github.io/Prem-kumar-Portfolio/)
+### [🏆 Check Out My Full Portfolio Website](prem-kumar-portfolio1-ten.vercel.app)
       
 ## 🔭 Here is the Projects I have Completed:
 
